@@ -110,7 +110,7 @@ const Cart = () => {
 
   return (
     <>
-      <div className="text-white">
+      <div className="text-black">
         <span style={{ fontSize: 30 }}>My Cart</span> <br />
         <span style={{ fontSize: 30 }}>
           Grand Total:<i class="fa fa-inr"></i> {calculateTotalPrice()}

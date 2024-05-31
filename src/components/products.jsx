@@ -66,7 +66,7 @@ const Products = () => {
 
   return (
     <>
-      <h1 className="text-white">Shopping Cart Using React-Redux</h1>
+      {/* <h1 className="text-black">Shopping Cart Using React-Redux</h1> */}
       <div className="card-products">{cards}</div>
     </>
   );
